@@ -16,12 +16,35 @@ Projeto visa utilizar IAs para o desenvolvimento do Ebook, sendo o nome do Ebook
 ## **🖥️Tecnologias**
   - [ChatGpt](https://chatgpt.com)
   - [Grok](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiRjPHT1LqQAxVWLrkGHcheAJAQFnoECBAQAQ&url=https%3A%2F%2Fgrok.com%2F&usg=AOvVaw1zlfw-7qpulRZL8NzxGRVt&opi=89978449)
+  - [LibreOffice](https://pt-br.libreoffice.org)
  
 
 ## **💡Como foi feito?**
   - Nome e textos ChatGPT 
   - Grok para geração de imagens
   - Libre Office Impress para diagramação
+
+## 🧠 Prompts
+
+ChatGPT：
+
+|   Ação   | Prompts                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Título  | crie o titulo de um ebook sobre Motion design, o ebook é do nicho de design e o subnicho de motion, o titulo deve ser épico e curto, e tenha uma temática de animes e games no titulo, me de 5 variações de títulos                                                        |
+| Conteúdo | faca um texto para ebook, com foco em motion design com after effects com exemplos {Regras} > Explique de maneira simples > Deixe o texto enxuto > Sempre traga exemplos em contextos reais > Sempre de um titulo sugestivo por tópico |
+
+
+Grok：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| Título | Motion Saga: A Arte em Movimento Supremo, cria imagem de um robo que possa representar este titulo de ebook/ Motion Saga Robot I generated an image of a sleek, futuristic robot embodying the essence of "Motion Saga: A Arte em Movimento Supremo" – capturing supreme motion and art through dynamic posing, energy auras, and artistic flourishes.|
+
+
+## 📚 Materiais
+
+- Imagens utilizadas em `assets`
+- Ebook gerado em `output`
 
 ## **👨‍💻Desenvolvedor**
 
