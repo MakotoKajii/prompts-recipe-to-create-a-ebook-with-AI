@@ -10,6 +10,8 @@
 
 Projeto visa utilizar IAs para o desenvolvimento do Ebook, sendo o nome do Ebook, imagens e textos.
 
+📘 [clique aqui para ler]
+
 ## **🖥️Tecnologias**
   - [ChatGpt](https://chatgpt.com)
   - [Grok](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiRjPHT1LqQAxVWLrkGHcheAJAQFnoECBAQAQ&url=https%3A%2F%2Fgrok.com%2F&usg=AOvVaw1zlfw-7qpulRZL8NzxGRVt&opi=89978449)
