@@ -10,7 +10,7 @@
 
 Projeto visa utilizar IAs para o desenvolvimento do Ebook, sendo o nome do Ebook, imagens e textos.
 
-📘 <a href="https://github.com/MakotoKajii/prompts-recipe-to-create-a-ebook-with-AI/blob/main/output/Ebook_Motion_V3.pdf" title="View PDF now"> Clique aqui para ler</a>
+<a href="https://github.com/MakotoKajii/prompts-recipe-to-create-a-ebook-with-AI/blob/main/output/Ebook_Motion_V3.pdf" title="View PDF now"> 📘 Clique aqui para ler</a>
 
 
 ## **🖥️Tecnologias**
