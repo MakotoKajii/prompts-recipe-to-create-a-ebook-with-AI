@@ -2,7 +2,7 @@
 *"A persistência é o caminho do êxito." - Charles Chaplin"*
 
 <p align = "center">
-<img src="image_1.png" alt="Foto Exemplo" width="400" style="display : block; margin : auto; border-radius:50%;">
+<img src="cover.png" alt="Foto Exemplo" width="400" style="display : block; margin : auto; border-radius:50%;">
 </p>
 
 <p align = "center">
