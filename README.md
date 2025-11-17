@@ -1,4 +1,4 @@
-# Podcast-generate-by-ia
+# prompts-recipe-to-create-a-ebook-with-AI
 *"A persistência é o caminho do êxito." - Charles Chaplin"*
 
 <p align = "center">
@@ -9,10 +9,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/DIO-Podcast_Project-blue?logo=spotify">
 </p>
 
-# *Projeto Podcast Gerado por IA*
-> ℹ️ **Note:** Repositorio criado para o projeto do Podcast
+# *Projeto de Ebook Gerado por IA e editado por um Humano*
+> ℹ️ **Note:** Repositorio criado para o projeto de Ebook com IA
 
-Projeto visa utilizar IAs para o desenvolvimento do podcast, sendo o nome do podcast, roteiro e vozes.
+Projeto visa utilizar IAs para o desenvolvimento do Ebook, sendo o nome do Ebook, imagens e textos.
 
 ## **🖥️Tecnologias**
   - [ChatGpt](https://chatgpt.com)
