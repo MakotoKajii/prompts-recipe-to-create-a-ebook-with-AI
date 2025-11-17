@@ -2,7 +2,7 @@
 *"A persistência é o caminho do êxito." - Charles Chaplin"*
 
 <p align = "center">
-<img src="assets/cover.png" alt="Foto Exemplo" width="400" style="display : block; margin : auto; border-radius:50%;">
+<img src="https://github.com/MakotoKajii/prompts-recipe-to-create-a-ebook-with-AI/blob/main/assets/cover.png" alt="Foto Exemplo" width="400" style="display : block; margin : auto; border-radius:50%;">
 </p>
 
 # *Projeto de Ebook Gerado por IA e editado por um Humano*
